@@ -1,0 +1,4 @@
+Apa itu git rebase
+
+Jawaban:
+Git rebase adalah proses mengambil serangkaian sejarah commit dari satu cabang ke cabang lain. Hal ini bertujuan untuk menjaga sejarah commit bersih dan mudah dipahami.

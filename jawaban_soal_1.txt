@@ -1,0 +1,12 @@
+Apa itu merge conflict dan cara menanggulanginya
+
+Jawaban:
+Merge conflict adalah suatu kejadian yang sering terjadi ketika perubahan dari satu cabang ke cabang lain berdekatan atau bahkan di baris yang sama sehingga git tidak dapat secara otomatis menggabungkan kedua cabang tersebut.
+
+Cara mengatasi:
+1. Pilih cabang yang akan diperbaiki
+2. Mencari di mana baris yang bermasalah (git akan menandai dengan <<<<<<<, =======, dan >>>>>>>)
+3. Perbaiki permasalahan 
+4. Tambahkan perubahan ke dalam repository (git add) dan commit (git commit)
+5. Gabungkan kedua cabang
+6. Periksa apakah hasil berfungsi seperti yang diharapkan
